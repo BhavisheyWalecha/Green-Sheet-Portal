@@ -1,0 +1,12 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pyjwt
+bcrypt
+pypdf
+reportlab
+python-multipart
+email-validator
+anthropic
+pytest
+httpx
